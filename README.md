@@ -7,9 +7,9 @@ Dataset: https://huggingface.co/datasets/wikimedia/wikipedia
 
 The ojectives of this project, other than learning the management of big data via Spark:
 
-- **CLUSTER** articles (*Brown clustering*,*t-SNE*?)
-  
 - **Doc2Vec** to vector Wikipedia articles.
+
+- **CLUSTER** articles via *t-SNE*.  
 
 - **CHANGE** *Vector_size* and *epoch* optimizing time and space.
 
