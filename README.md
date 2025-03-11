@@ -7,7 +7,7 @@ Dataset: https://huggingface.co/datasets/wikimedia/wikipedia
 
 The ojectives of this project, other than learning the management of big data via Spark:
 
-
+- **CLUSTER** articles (*Brown clustering*,*t-SNE*?)
   
 - **Doc2Vec** to vector Wikipedia articles.
 
@@ -26,8 +26,9 @@ The ojectives of this project, other than learning the management of big data vi
 This are some steps that can be useful to apply to the project, but are time consuming:
 
 -   **TRAIN** replaced data.
+
 -   **ADD** *sentiment analyisis*, *length of the articles*, *word frequency*...
--   **CLUSTER** articles (*Brown clustering*,*t-SNE*?)
+
 -   **NORMAL** text, running -> run
 
 ## Results and figures:
