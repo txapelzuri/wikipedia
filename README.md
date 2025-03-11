@@ -28,6 +28,7 @@ This are some steps that can be useful to apply to the project, but are time con
 -   **TRAIN** replaced data.
 -   **ADD** *sentiment analyisis*, *length of the articles*, *word frequency*...
 -   **CLUSTER** articles (*Brown clustering*,*t-SNE*?)
+-   **NORMAL** text, running -> run
 
 ## Results and figures:
 
