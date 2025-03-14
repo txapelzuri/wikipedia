@@ -38,3 +38,7 @@ This is the correlation matrix of 1_000 randomly selected vectors that each repr
 
 This is 10_000 vectors:
 ![Figure_10000](https://github.com/user-attachments/assets/2685033e-97f7-4861-afb0-79a4c6400391)
+
+tsne with 100 vectors:
+![Figure tsne](https://github.com/user-attachments/assets/cc4b379c-9c0f-4fa8-a614-a04ee69400b2)
+
