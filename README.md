@@ -20,14 +20,17 @@ The ojectives of this project, other than learning the management of big data vi
 - **CREATE** *Recommendation System* for articles.
 
 ## Results and figures:
-This is the correlation matrix of 1_000 randomly selected vectors that each represent a single article, without any filter in length of document:
+
 ![Figure_1000](https://github.com/user-attachments/assets/94a6b030-4fcb-468f-a017-7c4a545c67e7)
+This is the correlation matrix of 1_000 randomly selected vectors that each represent a single article, without any filter in length of document:
 
-This is 10_000 vectors:
+
 ![Figure_10000](https://github.com/user-attachments/assets/2685033e-97f7-4861-afb0-79a4c6400391)
+This is 10_000 vectors:
 
-tsne with 100 vectors:
+
 ![Figure tsne100](https://github.com/user-attachments/assets/cc4b379c-9c0f-4fa8-a614-a04ee69400b2)
+tsne with 100 vectors:
 
 ### Regarding Extra Steps:
 
