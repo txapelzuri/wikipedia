@@ -22,7 +22,6 @@ The ojectives of this project, other than learning the management of big data vi
 - **CREATE** *Recommendation System* for articles.
 
 ## Results and figures:
-
 This is the correlation matrix of 1_000 randomly selected vectors that each represent a single article, without any filter in length of document:
 ![Figure_1000](https://github.com/user-attachments/assets/94a6b030-4fcb-468f-a017-7c4a545c67e7)
 
