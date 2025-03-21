@@ -10,8 +10,11 @@ This is the correlation matrix of 1_000 randomly selected vectors that each repr
 This is 10_000 vectors:
 
 
-![Figure tsne100](https://github.com/user-attachments/assets/cc4b379c-9c0f-4fa8-a614-a04ee69400b2)
-tsne with 100 vectors:
+![Figure tsne1000](https://github.com/user-attachments/assets/8a2eaa36-dd5f-4140-a04e-ef019cadea41)
+tsne with 1000 vectors:
+
+![Figure kmeans100_000](https://github.com/user-attachments/assets/ef8515cb-3c7f-4ff7-aaf7-e94351c3c298)
+kmeans with 100k vectors:
 
 # WIKIPEDIA
 Dataset: https://huggingface.co/datasets/wikimedia/wikipedia
@@ -44,10 +47,4 @@ This are some steps that can be useful to apply to the project, but are time con
 -   **ADD** *sentiment analyisis*, *length of the articles*, *word frequency*...
 
 -   **NORMAL** text, running -> run
-
-
-
-tsne with 1000 vectors:
-![Figure tsne1000](https://github.com/user-attachments/assets/8a2eaa36-dd5f-4140-a04e-ef019cadea41)
-
 
