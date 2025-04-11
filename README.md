@@ -18,9 +18,11 @@ Visualizes the data using tsne and kmeans
 
 ## Official files in github:
 requirements.txt:
+
 pip install requirements for the code to work.
 
 wikipediacode.py:
+
 Final code that takes the wikipedia articles and cluster them. 
 Using 1_000 random wikipedia articles, trains doc2vec model after tagging the data, converts 1_000 random test data to a vector using the model and plots using UMAP and KMeans.
 
