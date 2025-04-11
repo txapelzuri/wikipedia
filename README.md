@@ -51,7 +51,7 @@ Learn and dos:
 
 - **CLUSTER** articles while handling big data via *UMAP*, as *PCA* is linear and t-sne takes too long.
 
-- **OPTIMIZE** *Vector_size*, meaning how long the vector should be that represents enough of the article and *epoch*, meaning how long it takes to 
+- **OPTIMIZE** *Vector_size*, meaning how long the vector should be that represents enough of the article and *epoch*, meaning many times do the model have to see the data to learn
 
 - **PREDICT** vectors with shallow model.
 
