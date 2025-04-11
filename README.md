@@ -44,6 +44,7 @@ Dataset: https://huggingface.co/datasets/wikimedia/wikipedia
 ## Objective: 
 
 The objectives of this project are:
+
 Learn and dos:
 
 - **Doc2Vec** to vector Wikipedia articles with a personalized trained model.
@@ -62,7 +63,7 @@ To get to a point where we can:
 
 - **CREATE** *Recommendation System* for articles using user database
 - **LABEL** articles using unsupervised clustering
-- **CREATE** good enough model so 
+- **CREATE** good enough model that can take any article and converts to a vector that is a good representation of it
 
 ### Regarding Extra Steps:
 
