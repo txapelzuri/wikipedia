@@ -5,15 +5,19 @@ in C:\Users\(user name)\.cache\huggingface\datasets\wikimedia___wikipedia\202311
 
 ## Temporal Files in github:
 doc2vec_create_model.py:
+
 Takes wikipedia articles, trains and saves the model.
 
 doc2vec_create_vectors.py:
+
 Using the model, creates vectors to each wikipedia article.
 
 doc2vec_mostsimilar.py:
+
 In the list of vectors, get the most similar articles.
 
 doc2vec_vizz.py:
+
 Visualizes the data using tsne and kmeans
 
 ## Official files in github:
