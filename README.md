@@ -1,5 +1,9 @@
 # Files
-## Temporal Files:
+
+## Local Files in the computer: 
+in C:\Users\(user name)\.cache\huggingface\datasets\wikimedia___wikipedia\20231101.en\0.0.0\b04c8d1ceb2f5cd4588862100d08de323dccfbaa, the big dataset will be saved.
+
+## Temporal Files in github:
 doc2vec_create_model.py:
 Takes wikipedia articles, trains and saves the model.
 
@@ -12,7 +16,7 @@ In the list of vectors, get the most similar articles.
 doc2vec_vizz.py:
 Visualizes the data using tsne and kmeans
 
-## Official files
+## Official files in github:
 requirements.txt:
 pip install requirements for the code to work.
 
@@ -21,7 +25,6 @@ Final code that takes the wikipedia articles and cluster them.
 Using 1_000 random wikipedia articles, trains doc2vec model after tagging the data, converts 1_000 random test data to a vector using the model and plots using UMAP and KMeans.
 
 ## Results and figures:
-
 
 ![Figure tsne1000](https://github.com/user-attachments/assets/8a2eaa36-dd5f-4140-a04e-ef019cadea41)
 tsne with 1000 vectors:
@@ -34,13 +37,14 @@ Dataset: https://huggingface.co/datasets/wikimedia/wikipedia
 
 ## Objective: 
 
-The ojectives of this project, other than learning the management of big data via Spark:
+The objectives of this project are:
+Learn and dos:
 
-- **Doc2Vec** to vector Wikipedia articles.
+- **Doc2Vec** to vector Wikipedia articles with a personalized trained model.
 
-- **CLUSTER** articles via *t-SNE*.  
+- **CLUSTER** articles while handling big data via *UMAP*, as *PCA* is linear and t-sne takes too long.
 
-- **CHANGE** *Vector_size* and *epoch* optimizing time and space.
+- **OPTIMIZE** *Vector_size*, meaning how long the vector should be that represents enough of the article and *epoch*, meaning how long it takes to 
 
 - **PREDICT** vectors with shallow model.
 
@@ -48,8 +52,11 @@ The ojectives of this project, other than learning the management of big data vi
 
 - **LOAD** model to predict new vectors.
 
-- **CREATE** *Recommendation System* for articles.
+To get to a point where we can:
 
+- **CREATE** *Recommendation System* for articles using user database
+- **LABEL** articles using unsupervised clustering
+- **CREATE** good enough model so 
 
 ### Regarding Extra Steps:
 
