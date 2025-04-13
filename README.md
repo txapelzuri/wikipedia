@@ -96,6 +96,6 @@ This are some steps that can be useful to apply to the project, but are time con
 
 -   **CHECK** *King – Man + Woman = Queen* works
 
-###  COnclusion:
+###  Conclusion:
 
 We prove that our model can work even with training as low as 10 articles and as high as 1_000. Testing 1_000 articles gave enough data to conclude that the clustering is working and, with enough training and testing data, we can imagine that the clustering will be almost flawless. 
